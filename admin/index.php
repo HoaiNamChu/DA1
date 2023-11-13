@@ -1,5 +1,7 @@
-include 'admin/view/header.php';
+<?php
+    include 'view/header.php';
 
-include 'admin/view/home.php';
+    include 'view/home.php';
 
-include 'admin/view/footer.php';
+    include 'view/footer.php';
+?>
